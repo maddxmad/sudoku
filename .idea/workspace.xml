@@ -49,16 +49,40 @@
       <option name="presentableId" value="Default" />
       <updated>1621545835720</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial!">
+      <created>1621546536764</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621546536764</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial!" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="342" y="416" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1621546164698">
       <screen x="0" y="23" width="1680" height="965" />
     </state>
     <state x="342" y="416" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1680.965@0.23.1680.965" timestamp="1621546164698" />
+    <state x="321" y="69" key="CommitChangelistDialog2" timestamp="1621546536564">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state x="321" y="69" key="CommitChangelistDialog2/0.23.1680.965@0.23.1680.965" timestamp="1621546536564" />
+    <state x="599" y="415" key="Github.Dialog.Accounts.Choose" timestamp="1621546551374">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state x="599" y="415" key="Github.Dialog.Accounts.Choose/0.23.1680.965@0.23.1680.965" timestamp="1621546551374" />
     <state x="242" y="66" key="SettingsEditor" timestamp="1621546214490">
       <screen x="0" y="23" width="1680" height="965" />
     </state>
     <state x="242" y="66" key="SettingsEditor/0.23.1680.965@0.23.1680.965" timestamp="1621546214490" />
+    <state x="354" y="224" key="Vcs.Push.Dialog.v2" timestamp="1621546548557">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state x="354" y="224" key="Vcs.Push.Dialog.v2/0.23.1680.965@0.23.1680.965" timestamp="1621546548557" />
   </component>
 </project>
